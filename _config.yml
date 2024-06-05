@@ -1,0 +1,12 @@
+title: Sahar Khazali  # Add a space after the period
+
+description: Machine learning developer # Fix hyphenation 
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
+
+email: sahar.khazali.bte@gmail.com
+linkedin_url: https://linkedin.com/in/sahar-khazali/
+github_url: https://github.com/saharkh99

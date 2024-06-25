@@ -42,6 +42,9 @@ Implemented a solution to interpret anomaly detection deep learning results, mak
 Implemented recipe generator app with customized preference using common APIs and generative AI.
 - **Data distillation on popular public google datasets**
 New solution for big data, clustering images based on transfer learning.
+- **Speech chatbot**
+Implemented chatbot for question-answering about speeches/people in history using advanced RAG and knowledge graph.
+[project](https://github.com/saharkh99/Speech)
 
 
 

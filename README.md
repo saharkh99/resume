@@ -36,15 +36,16 @@ Recent Computer Science MSc graduate with hands-on experience in machine learnin
   
 
 ## 🌱 Projects
+- **PDF Assistance chatbot**
+Implemented chatbot for question-answering from documents in history using advanced RAG and knowledge graph.
+[project](https://github.com/saharkh99/pdf_assistance_llm)
 - **Anomaly Detection with Interpretation using Generative AI for Non-Expert Customers**
 Implemented a solution to interpret anomaly detection deep learning results, making the insights accessible and understandable for human inspectors using LLM models (GPT4).
 - **Recipe Generator from Grocery Images using LangChain, Pinecone and OpenAI**
 Implemented recipe generator app with customized preference using common APIs and generative AI.
 - **Data distillation on popular public google datasets**
 New solution for big data, clustering images based on transfer learning.
-- **Speech chatbot**
-Implemented chatbot for question-answering from documents in history using advanced RAG and knowledge graph.
-[project](https://github.com/saharkh99/pdf_assistance_llm)
+
 
 
 

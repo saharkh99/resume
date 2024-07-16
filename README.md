@@ -43,8 +43,8 @@ Implemented recipe generator app with customized preference using common APIs an
 - **Data distillation on popular public google datasets**
 New solution for big data, clustering images based on transfer learning.
 - **Speech chatbot**
-Implemented chatbot for question-answering about speeches/people in history using advanced RAG and knowledge graph.
-[project](https://github.com/saharkh99/Speech)
+Implemented chatbot for question-answering from documents in history using advanced RAG and knowledge graph.
+[project](https://github.com/saharkh99/pdf_assistance_llm)
 
 
 
